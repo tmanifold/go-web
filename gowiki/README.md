@@ -1,4 +1,4 @@
 
 # Go Wiki Web App
 
-https://go.dev./doc/articles/wiki/
+https://go.dev/doc/articles/wiki/
